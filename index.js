@@ -36,7 +36,7 @@ bot.on('message', msg => {
     if (msg.content === '!links'){
         msg.channel.send('Link para o site: http://ragnarotico.com.br') 
         msg.channel.send('Link para download: http://www.ragnarotico.com.br/Ragnaroticofull.rar')
-        msg.channel.send('Link para votar: http://ragnarotico.com.br/ceres')
+        msg.channel.send('Link para votar: http://registro.ragnarotico.com.br/?module=voteforpoints')
         msg.channel.send('Link para nosso grupo de Discord :  http://discord.gg/NabjJkM')
     }  
 
